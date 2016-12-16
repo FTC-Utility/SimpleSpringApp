@@ -5,6 +5,6 @@ package com.simplespring.web.service.IServiceContract;
  */
 public interface ILoginService {
     //Not yet done
-
+    // App sss
 
 }
