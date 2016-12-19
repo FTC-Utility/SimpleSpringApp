@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="simplespring:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="SimpleSpringApp.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/simplespring_war</output-path>
+    <root id="archive" name="simplespring_war.war">
       <element id="artifact" artifact-name="simplespring:war exploded" />
     </root>
   </artifact>

@@ -15,7 +15,7 @@ public class HomeController {
     @Autowired
     IUserService userService;
 
-    @RequestMapping(value = "/home", method = RequestMethod.GET)
+    @RequestMapping(value = "/", method = RequestMethod.GET)
     public String getHomePage() {
         return "home";
     }
